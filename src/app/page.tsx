@@ -59,6 +59,7 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <p>Add a new line of code!</p>
       </main>
     </div>
   );
